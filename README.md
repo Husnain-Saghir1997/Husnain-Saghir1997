@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Husnain Saghir
+- 👋 Husnain here
 - 👀 I’m interested in Interpretable AI and ML applications in chemical engineering. Hybrid semi-parametric modelling applied to industrial as well as pilot and lab-scale problems. 
 - 🌱 I’m currently learning Python and Pytorch
 - 💞️ I’m looking to collaborate on Python and PyTorch projects
